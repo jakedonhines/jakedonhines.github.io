@@ -4,6 +4,6 @@
 
 ### [Nations](nations/index.md)
 
-### Characters(characters/index.md
+### [Characters](characters/index.md)
 
-### History(histroy/index.md)
+### [History](histroy/index.md)
